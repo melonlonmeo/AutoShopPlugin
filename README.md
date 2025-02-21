@@ -15,7 +15,7 @@ Restart the server and enjoy!
 Commands
 
 /autoshop
-
+![image](https://github.com/user-attachments/assets/ab044fe3-2324-461b-9d68-3dcbdb174c90)
 Displays usage instructions for the plugin.
 
 
