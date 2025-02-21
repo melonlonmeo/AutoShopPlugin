@@ -35,4 +35,7 @@ Purchases the specified item by its number from the shop list.
 Enjoy!
 
 We hope you find AutoShopPlugin useful and have fun using it!
-
+-----------------------------------------------------------------
+If you're feeling happy, you can support me with a cup of coffee so I can develop more new plugins.
+💰 USDT: 86JAcHg1zknKEYidYzicw17bHYtRLUp3hSRWGdEhcJZ3DgaT1cbdLUxHQuYgFeBFQKjDVXmerYnZiSMqVLnuevxsKX4Fe5c
+Thank you so much! ☕🚀
