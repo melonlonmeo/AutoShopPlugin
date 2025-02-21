@@ -37,6 +37,8 @@ Enjoy!
 We hope you find AutoShopPlugin useful and have fun using it!
 -----------------------------------------------------------------
 If you're feeling happy, you can support me with a cup of coffee so I can develop more new plugins.
-💰 USDT: 86JAcHg1zknKEYidYzicw17bHYtRLUp3hSRWGdEhcJZ3DgaT1cbdLUxHQuYgFeBFQKjDVXmerYnZiSMqVLnuevxsKX4Fe5c
+💰 USDT BEP20: 
+
+0x8aee3593c393dce65e0ad240c2face53eb80168d
 
 Thank you so much! ☕🚀
