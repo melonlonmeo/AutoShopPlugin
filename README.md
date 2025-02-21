@@ -21,13 +21,13 @@ Displays usage instructions for the plugin.
 
 
 /shoplist (page 1 → 22)
-
+![image](https://github.com/user-attachments/assets/3d5979d3-c154-4138-a4bc-24ac10439a88)
 Lists available items for purchase, paginated from 1 to 22.
 
 
 
 /buy (item number)
-
+![image](https://github.com/user-attachments/assets/89d52cfa-15a7-4427-9226-74851aa578bc)
 Purchases the specified item by its number from the shop list.
 
 
