@@ -1,4 +1,6 @@
-AutoShopPlugin
+AutoShopPlugin 
+
+# Update : https://github.com/melonlonmeo/AutoShopPlugin_V2.0
 
 Overview
 
